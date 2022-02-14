@@ -1,6 +1,2 @@
-Cupcakes version of [2048](http://gabrielecirulli.github.io/2048/) game
-========================================================================
-
-Play here: http://git.io/cupcakes
-
-[![2048 CUPCAKES](http://oi62.tinypic.com/9u7rkk.jpg)](http://git.io/cupcakes)
+COMMUNISM version of [2048](http://gabrielecirulli.github.io/2048/) game
+In progress by 67444, based on 2048-CUPCAKES by 0x0800
