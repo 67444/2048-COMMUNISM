@@ -115,14 +115,14 @@ h1.title {
   float: right; }
 
 .score-container:after {
-  content: "Cupcake"; }
+  content: "Rank"; }
 .score-points:after {
-  content: "Kcal"; }
+  content: "CommuPoints"; }
 
 .best-container:after {
-  content: "Cupcake Max"; }
+  content: "CommuPoints Max"; }
 .best-points:after {
-	content: "Kcal Max"; }
+	content: "CommuPoints Max"; }
 
 p {
   margin-top: 0;
@@ -178,7 +178,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #f67098;
+  background: #ff0000;
   border-radius: 6px;
   width: 500px;
   height: 500px;
